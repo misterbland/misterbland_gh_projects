@@ -1,6 +1,6 @@
 # misterbland_gh_projects
 
-<h1>Hello, I'm Austin, an <a href="https://www.linkedin.com/in/austin-bland-38646b95">IT Professional</a>☺</h1>
+<h1>Hello, I'm Austin, an <a href="https://www.linkedin.com/in/austin-bland-38646b95">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
